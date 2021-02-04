@@ -1,0 +1,34 @@
+{
+    "model1": {
+        "template_zip_url": "https://raw.githubusercontent.com/tsuiyuenhong/DMMMM/master/model1.zip",
+        "template_zip_md5": "12345",
+        "template_video_url": "http://vfx.mtime.cn/Video/2019/02/04/mp4/190204084208765161.mp4",
+        "template_image_url": "https://i.loli.net/2021/02/04/9t8nZkoMxgc6Je1.png",
+        "template_name": "model1",
+        "template_desc": "In literary theory, a text is any object that can be read, whether this object is a work of literature"
+    },
+    "model2": {
+        "template_zip_url": "https://raw.githubusercontent.com/tsuiyuenhong/DMMMM/master/model1.zip",
+        "template_zip_md5": "12345",
+        "template_video_url": "http://vfx.mtime.cn/Video/2019/03/21/mp4/190321153853126488.mp4",
+        "template_image_url": "https://i.loli.net/2021/02/04/5D4fdXGWBQxZAyJ.png",
+        "template_name": "model2",
+        "template_desc": "a street sign, an arrangement of buildings on a city block"
+    },
+    "model3": {
+        "template_zip_url": "https://raw.githubusercontent.com/tsuiyuenhong/DMMMM/master/model1.zip",
+        "template_zip_md5": "12345",
+        "template_video_url": "http://vfx.mtime.cn/Video/2019/03/18/mp4/190318214226685784.mp4",
+        "template_image_url": "https://i.loli.net/2021/02/04/7QtifjAy2oG1Mqn.png",
+        "template_name": "model3",
+        "template_desc": "or styles of clothing. It is a coherent set of signs that transmits some kind"
+    },
+    "model4": {
+        "template_zip_url": "https://raw.githubusercontent.com/tsuiyuenhong/DMMMM/master/model1.zip",
+        "template_zip_md5": "12345",
+        "template_video_url": "http://vfx.mtime.cn/Video/2019/03/18/mp4/190318231014076505.mp4",
+        "template_image_url": "https://i.loli.net/2021/02/04/RqKZwkvjBWI9fgd.png",
+        "template_name": "model4",
+        "template_desc": "Since the history of writing predates the concept of the text, most texts were not"
+    },
+}
