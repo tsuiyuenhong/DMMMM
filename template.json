@@ -3,7 +3,7 @@
         {
             "uuid": "1",
             "zip_url": "http://raw.githubusercontent.com/tsuiyuenhong/DMMMM/master/model1.zip",
-            "zip_md5": "12345",
+            "zip_md5": "e506ddd600293b45a0ecfef15cc6b62b",
             "video_url": "http://vfx.mtime.cn/Video/2019/02/04/mp4/190204084208765161.mp4",
             "image_url": "https://i.loli.net/2021/02/04/9t8nZkoMxgc6Je1.png",
             "name": "model1",
@@ -12,7 +12,7 @@
         {
             "uuid": "2",
             "zip_url": "http://raw.githubusercontent.com/tsuiyuenhong/DMMMM/master/model1.zip",
-            "zip_md5": "12345",
+            "zip_md5": "e506ddd600293b45a0ecfef15cc6b62b",
             "video_url": "http://vfx.mtime.cn/Video/2019/03/21/mp4/190321153853126488.mp4",
             "image_url": "https://i.loli.net/2021/02/04/5D4fdXGWBQxZAyJ.png",
             "name": "model2",
@@ -21,7 +21,7 @@
         {
             "uuid": "3",
             "zip_url": "http://raw.githubusercontent.com/tsuiyuenhong/DMMMM/master/model1.zip",
-            "zip_md5": "12345",
+            "zip_md5": "e506ddd600293b45a0ecfef15cc6b62b",
             "video_url": "http://vfx.mtime.cn/Video/2019/03/18/mp4/190318214226685784.mp4",
             "image_url": "https://i.loli.net/2021/02/04/7QtifjAy2oG1Mqn.png",
             "name": "model3",
@@ -30,7 +30,7 @@
         {
             "uuid": "4",
             "zip_url": "http://raw.githubusercontent.com/tsuiyuenhong/DMMMM/master/model1.zip",
-            "zip_md5": "12345",
+            "zip_md5": "e506ddd600293b45a0ecfef15cc6b62b",
             "video_url": "http://vfx.mtime.cn/Video/2019/03/18/mp4/190318231014076505.mp4",
             "image_url": "https://i.loli.net/2021/02/04/RqKZwkvjBWI9fgd.png",
             "name": "model4",
